@@ -1,8 +1,8 @@
-# AI-Driven Audio Auto-Cutter ✂️
+# Dynamic Social Media Captioner 🔤
 
-A high-performance Python script designed to eliminate hours of manual rough-cutting. It transcribes input audio using the **OpenAI Whisper** model, calculates precise millisecond timestamps of silence, and uses **MoviePy** to cleanly stitch together only the segments containing active speech.
+An automated kinetic typography script built to maximize viewer retention. By pulling precise word-level alignment arrays from AI models, this script dynamically overlays text tracking onto video frames and alters text colors programmatically when a vital emphasis word is spoken.
 
 ### Key Capabilities
-- Sub-second audio silence threshold filtering.
-- Automated multi-clip seamless stitching.
-- Hardware-accelerated transcription using PyTorch.
+- Microsecond-accurate word-level text tracking.
+- Custom style matrices for background bounding boxes and modern fonts.
+- Automatic emphasis dictionary mapping.
